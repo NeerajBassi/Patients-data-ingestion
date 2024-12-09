@@ -1,0 +1,21 @@
+PatientID,FirstName,LastName,DOB,Gender,Address,PhoneNumber,Email,Diagnosis,VisitDate,DoctorID
+P1001,John,Doe,1985-04-12,Male,123 Main St,555-1234,john.doe@example.com,Diabetes,2023-12-05,D001
+P1002,Jane,Smith,1990-06-25,Female,456 Oak Rd,555-5678,jane.smith@example.com,Hypertension,2023-12-01,D002
+P1003,Michael,Johnson,1978-11-03,Male,789 Pine Ave,555-8765,michael.johnson@example.com,Asthma,2023-11-20,D003
+P1004,Emily,Williams,1987-03-14,Female,321 Maple Blvd,555-4321,emily.williams@example.com,Anemia,2023-12-03,D001
+P1005,James,Brown,1995-02-10,Male,654 Birch Ln,555-2345,james.brown@example.com,Cold,2023-12-07,D002
+P1006,Linda,Martinez,1992-07-19,Female,112 Cedar St,555-8764,linda.martinez@example.com,Flu,2023-11-22,D004
+P1007,David,Garcia,1980-05-30,Male,223 Elm St,555-3456,david.garcia@example.com,Arthritis,2023-12-10,D005
+P1008,Patricia,Anderson,1994-12-01,Female,890 Walnut Ln,555-9876,patricia.anderson@example.com,Diabetes,2023-11-15,D006
+P1009,Joseph,Thomas,1983-09-17,Male,567 Pine Rd,555-6543,joseph.thomas@example.com,High Cholesterol,2023-12-02,D007
+P1010,Jessica,Taylor,1991-01-11,Female,345 Oak Blvd,555-4322,jessica.taylor@example.com,Migraine,2023-11-30,D008
+P1011,Robert,Moore,1982-04-18,Male,123 Cherry Ln,555-8769,robert.moore@example.com,Diabetes,2023-11-29,D001
+P1012,Linda,King,1996-08-22,Female,456 Birch Blvd,555-9087,linda.king@example.com,Hypertension,2023-11-17,D002
+P1013,William,Lee,1989-02-10,Male,789 Oak Ave,555-5643,william.lee@example.com,Asthma,2023-10-14,D003
+P1014,Elizabeth,Harris,1984-12-05,Female,234 Maple Rd,555-9834,elizabeth.harris@example.com,Anemia,2023-09-23,D001
+P1015,Charles,Clark,1992-01-25,Male,567 Pine Blvd,555-1239,charles.clark@example.com,Cold,2023-11-27,D002
+P1016,Amanda,Roberts,1988-11-14,Female,890 Cedar Ln,555-4567,amanda.roberts@example.com,Flu,2023-12-08,D004
+P1017,Christopher,Walker,1975-03-09,Male,321 Oak St,555-6789,christopher.walker@example.com,Arthritis,2023-12-01,D005
+P1018,Susan,Young,1993-05-16,Female,654 Birch Rd,555-2349,susan.young@example.com,Diabetes,2023-11-21,D006
+P1019,Daniel,Allen,1980-07-30,Male,987 Maple Ln,555-7890,daniel.allen@example.com,High Cholesterol,2023-10-30,D007
+P1020,Katherine,Scott,1990-09-11,Female,543 Pine Ave,555-3450,katherine.scott@example.com,Migraine,2023-12-05,D008
